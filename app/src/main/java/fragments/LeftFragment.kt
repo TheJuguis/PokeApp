@@ -34,7 +34,11 @@ class LeftFragment : Fragment() {
     ): View? {
 
         binding = FragmentLeftBinding.inflate(inflater, container, false)
+        binding.sendLista.setOnClickListener{
 
+            val destination = LeftFragmentDirections.actionLeftFragmentToDestinationFragment(binding.etUserIdToGet.text.toString())
+            NavHostFragment.findNavController(this).navigate(destination)
+        }
         return binding.root
     }
 
@@ -79,7 +83,7 @@ class LeftFragment : Fragment() {
 
         btnGet.setOnClickListener {
             getUser(userToGet.text.toString(), userNameGet, userEmailGet,userLevelGet,userNumCapturasGet)
-            userToGet.text.clear()
+
         }
 
 
