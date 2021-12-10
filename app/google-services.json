@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "329065743561",
+    "firebase_url": "https://finalmoviles-e647a-default-rtdb.firebaseio.com",
+    "project_id": "finalmoviles-e647a",
+    "storage_bucket": "finalmoviles-e647a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:329065743561:android:3a9969d6126c30a59b3918",
+        "android_client_info": {
+          "package_name": "com.example.basicnavigation"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "329065743561-t2fv2c3mqd2oo8682g21cc9d9todcdph.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqD79x0SZ0z_IfDTvhnoVEUc8XB7nUbAs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "329065743561-t2fv2c3mqd2oo8682g21cc9d9todcdph.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:329065743561:android:cd3a3917b4139a579b3918",
+        "android_client_info": {
+          "package_name": "com.example.pokemonfinal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "329065743561-t2fv2c3mqd2oo8682g21cc9d9todcdph.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqD79x0SZ0z_IfDTvhnoVEUc8XB7nUbAs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "329065743561-t2fv2c3mqd2oo8682g21cc9d9todcdph.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
